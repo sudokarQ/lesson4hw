@@ -1,0 +1,96 @@
+body {
+    font-family: Verdana;
+    color: #06389e;
+    background: #e6e6e6;
+    margin-top: 0;
+}
+
+img {
+    width: 100px;
+    height: 187px;
+}
+
+ .upper {
+    background-color: #6699ff;
+    border-spacing: 0;
+    border: 1px;
+    width: 800;
+    box-align: center;
+	
+    width: 800px;
+    margin: auto;
+} 
+
+.second {
+    background: white;
+    border-spacing: 0;
+    border: 3px;
+    width: 800;
+    box-align: center;
+    width: 800px;
+    margin: auto;
+    border: 3px solid #6699ff;
+    font-weight: bolder;
+}
+
+
+h3, h4 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #494d56;
+}
+
+#shapka, #slogan {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+#slogan {
+    padding: 5px, 0, 5px, 0;
+}
+
+.foot {
+    color: white;
+    font-size: 0.6em;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.footer {
+   background: #6699ff;
+}
+
+ul, .content {
+    font-size: 0.7em;
+}
+
+ul {
+    font-family: Tahoma;
+    letter-spacing: 1px;
+    line-height: 1.5em;
+}
+
+.content {
+    padding: 10px, 15px, 10px, 15px;
+    text-align: justify;
+    border-top: 2px solid gray;
+    border-bottom: 2px solid gray;
+    padding: 15px;
+    font-weight: bolder;
+}
+
+.content a {
+    text-decoration: none;
+    color: #494d56;
+    font-weight: bolder;
+}
+
+ol { 
+    font-size: 0.8em;
+}
+
+ol li a {
+    color: gray;
+}
