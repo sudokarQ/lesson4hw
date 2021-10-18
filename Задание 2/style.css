@@ -3,6 +3,11 @@ body {
     color: #06389e;
     background: #e6e6e6;
     margin-top: 0;
+    
+}
+
+table{
+    border-collapse:collapse;
 }
 
 img {
@@ -16,13 +21,12 @@ img {
     border: 1px;
     width: 800;
     box-align: center;
-	
     width: 800px;
     margin: auto;
 } 
 
 .second {
-    background: white;
+    background: #FFFAFA	;
     border-spacing: 0;
     border: 3px;
     width: 800;
@@ -30,7 +34,7 @@ img {
     width: 800px;
     margin: auto;
     border: 3px solid #6699ff;
-    font-weight: bolder;
+    font-weight: normal;
 }
 
 
@@ -43,8 +47,9 @@ h3, h4 {
 #shapka, #slogan {
     font-family: Arial, sans-serif;
     text-align: center;
-    color: white;
+    color: #FFFAFA;
     font-weight: bold;
+    
 }
 
 #slogan {
@@ -56,10 +61,17 @@ h3, h4 {
     font-size: 0.6em;
     text-align: center;
     font-weight: bolder;
+    padding: 0; 
+    
 }
 
+.foot a {
+    color:#FFFAFA;
+    text-decoration: none;
+}
 .footer {
    background: #6699ff;
+   
 }
 
 ul, .content {
@@ -78,7 +90,7 @@ ul {
     border-top: 2px solid gray;
     border-bottom: 2px solid gray;
     padding: 15px;
-    font-weight: bolder;
+    font-weight: normal;
 }
 
 .content a {
@@ -94,3 +106,4 @@ ol {
 ol li a {
     color: gray;
 }
+
